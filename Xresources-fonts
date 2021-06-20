@@ -1,4 +1,4 @@
 ! fonts
 ! run "fc-list" for a list of available fonts
-URxvt*font: xft:Hack-Regular.ttf:pixelsize=13
+URxvt.font: xft:Hack:size=10
 

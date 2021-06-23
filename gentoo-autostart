@@ -1,1 +1,6 @@
-xrdb $HOME/.Xresources &
+xresources=$HOME/.Xresources
+wallpaper=$HOME/.config/wallpapers/wallpaper_01.png
+
+xrdb $xresources &
+numlockx &
+feh --no-fehbg --bg-tile $wallpaper

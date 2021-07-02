@@ -1,0 +1,2 @@
+export PATH=$HOME/.local/bin:$PATH 
+alias neofetch="neofetch --w3m /home/$USER/.config/neofetch/neo-logo.png"
